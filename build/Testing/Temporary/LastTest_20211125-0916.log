@@ -1,0 +1,21 @@
+Start testing: Nov 25 10:16 Rom, normaltid
+----------------------------------------------------------
+1/1 Testing: usage_test
+1/1 Test: usage_test
+Command: "C:/Users/bangs/Desktop/AU/Programmering/Visual studio code/assignment-12-JeppeBC/build/tests/tests.exe"
+Directory: C:/Users/bangs/Desktop/AU/Programmering/Visual studio code/assignment-12-JeppeBC/build/tests
+"usage_test" start time: Nov 25 10:16 Rom, normaltid
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (15 assertions in 1 test case)
+
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"usage_test" end time: Nov 25 10:16 Rom, normaltid
+"usage_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 25 10:16 Rom, normaltid
